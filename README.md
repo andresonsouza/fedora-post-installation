@@ -4,31 +4,31 @@ Olá! Andreson Souza aqui!
 
 Quero compartilhar com vocês aqui os passos que utilizo para configurar o sistema para minhas necessidades, a distro em questão aqui neste artigo é a Fedora 40.
  
-## 1. Utilitários do Sistema
-   1.1. Atualização do sistema
-   1.2. Atualização do idioma do sistema para PT-BR
-   1.3. Editor de textos Vim
-   1.4. Instalação e configuração do ZSH e [oh my zsh](https://ohmyz.sh/)
+## 1 Utilitários do Sistema
+   1.1 Atualização do sistema
+   1.2 Atualização do idioma do sistema para PT-BR
+   1.3 Editor de textos Vim
+   1.4 Instalação e configuração do ZSH e [oh my zsh](https://ohmyz.sh/)
 
-## 2. Ferramentas para Desenvolvimento Web
-   2.1. Instalação do VsCode
-   2.2. asdf - O gerenciador de múltiplas versões de linguagens
-   2.3. Instalação do nodejs usando asdf
-   2.4. Instale o gerenciador de pacotes yarn
+## 2 Ferramentas para Desenvolvimento Web
+2.1 Instalação do VsCode
+2.2 asdf - O gerenciador de múltiplas versões de linguagens
+2.3 Instalação do nodejs usando asdf
+2.4. Instale o gerenciador de pacotes yarn
 
-## 3. Ferramentas para Produção Audiovisual
+## 3 Ferramentas para Produção Audiovisual
 
-### 1. Utilitários do Sistema
+### 1 Utilitários do Sistema
 Aqui vamos instalar ferramentas libs, codecs e ferramentas que são requisitos para funcionamento de vários softwares em geral
 
-**1.1. Atualização do sistema**
+**1.1 Atualização do sistema**
 Primeiro passo é atualizarmos o sistema para não termos nenhum problema durante a instalação e configuração dos apps, bibliotecas e afins.
 
 ```bash
 sudo dnf update
 ```
 
-**1.3. Editor de textos Vim**
+**1.3 Editor de textos Vim**
 
 O Vim é um editor de texto altamente configurável e poderoso, projetado para facilitar a edição eficiente de texto. Ele é amplamente utilizado em sistemas Unix e Unix-like, como Linux, e também está disponível para outros sistemas operacionais.
 
@@ -38,7 +38,7 @@ A instalação pode ser feita com o comando abaixo.
 sudo dnf vim
 ```
 
-**1.4. Instalação e configuração do ZSH e [oh my zsh](https://ohmyz.sh/)**
+**1.4 Instalação e configuração do ZSH e [oh my zsh](https://ohmyz.sh/)**
 
 **O que é o ZSH**
 
@@ -82,7 +82,7 @@ ZSH_THEME="agnoster"
 
 **Instalação de alguns Plugins**
 
-## 2. Ferramentas para Desenvolvimento Web
+## 2 Ferramentas para Desenvolvimento Web
 
 **Instalação do VSCode**
 
@@ -151,11 +151,11 @@ Torne a versão instalada anteriormente global utilizando o comando abaixo.
 asdf global nodejs v20.13.1
 ```
 
-**2.4. Instale o gerenciador de pacotes yarn**
+**2.4 Instale o gerenciador de pacotes yarn**
 
 O Yarn é um gerenciador de pacotes para JavaScript, criado pelo Facebook em colaboração com outras empresas como Google, Exponent e Tilde. Ele foi desenvolvido para ser uma alternativa ao npm (Node Package Manager), que é o gerenciador de pacotes padrão para o ecossistema Node.js.
 
-**2.5. Instalação do Angular CLI**
+**2.5 Instalação do Angular CLI**
 
 O Angular CLI (Command Line Interface) é uma ferramenta de linha de comando oficial fornecida pelo time do Angular para facilitar o desenvolvimento de aplicativos Angular. Ele é projetado para automatizar tarefas comuns, como a criação de novos componentes, serviços, módulos, entre outros, além de fornecer um ambiente de desenvolvimento otimizado.
 
@@ -163,7 +163,7 @@ O Angular CLI (Command Line Interface) é uma ferramenta de linha de comando ofi
 npm install -g @angular/cli
 ```
 
-**2.6. Instalação do Typescript**
+**2.6 Instalação do Typescript**
 
 TypeScript é um superconjunto tipado de JavaScript que compila para JavaScript simples. Em outras palavras, o TypeScript adiciona tipagem estática opcional, classes, interfaces e outros recursos de orientação a objetos ao JavaScript. Desenvolvido e mantido pela Microsoft, o TypeScript visa melhorar a escalabilidade e a manutenibilidade do código JavaScript, especialmente em grandes projetos e equipes de desenvolvimento.
 
