@@ -4,17 +4,17 @@ Olá! Andreson Souza aqui!
 
 Quero compartilhar com vocês aqui os passos que utilizo para configurar o sistema para minhas necessidades, a distro em questão aqui neste artigo é a Fedora 40.
  
-## 1 Utilitários do Sistema
-   1.1 Atualização do sistema
-   1.2 Atualização do idioma do sistema para PT-BR
-   1.3 Editor de textos Vim
-   1.4 Instalação e configuração do ZSH e [oh my zsh](https://ohmyz.sh/)
+## 1 Utilitários do Sistema <br/>
+1.1 Atualização do sistema <br/>
+1.2 Atualização do idioma do sistema para PT-BR <br/>
+1.3 Editor de textos Vim <br/>
+1.4 Instalação e configuração do ZSH e [oh my zsh](https://ohmyz.sh/)
 
 ## 2 Ferramentas para Desenvolvimento Web
-2.1 Instalação do VsCode
-2.2 asdf - O gerenciador de múltiplas versões de linguagens
-2.3 Instalação do nodejs usando asdf
-2.4. Instale o gerenciador de pacotes yarn
+2.1 Instalação do VsCode <br/>
+2.2 asdf - O gerenciador de múltiplas versões de linguagens <br/>
+2.3 Instalação do nodejs usando asdf <br/>
+2.4. Instale o gerenciador de pacotes yarn <br/>
 
 ## 3 Ferramentas para Produção Audiovisual
 
